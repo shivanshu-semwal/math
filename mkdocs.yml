@@ -4,13 +4,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: teal
+      primary: indigo
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -22,7 +22,7 @@ theme:
   features:
     - navigation.tracking
     - navigation.tabs
-    - toc.integrate
+    - navigation.indexes
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 markdown_extensions:

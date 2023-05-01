@@ -39,20 +39,3 @@ $$
 (\textbf{a} \cdot \textbf{c})  \textbf{b} -
 (\textbf{a} \cdot \textbf{b}) \textbf{c}
 $$
-
-## Vector calculus
-
-### Notation
-
-$$
-\nabla \equiv
-\left(
-\frac{\partial}{\partial x},
-\frac{\partial}{\partial y},
-\frac{\partial}{\partial z}
-\right)
-$$
-
-- Gradient, $\operatorname{grad} \phi = \nabla \phi$
-- Divergence, $\operatorname{div} \textbf{A} = \nabla \cdot \textbf{A}$
-- Curl, $\operatorname{curl} \textbf{A} = \nabla \times \textbf{A}$

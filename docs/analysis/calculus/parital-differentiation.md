@@ -1,33 +1,10 @@
-# Calculus
-
-## Differentiation
-
-## Integration
-
-## nth Derivatives
-
-### Notation
-
-$$
-\frac{d^n}{dx^n} f(x) = f^{n}(x) = y_n(f(x))
-$$
-
-### List
-
-- $$
-  x^m \rightarrow P(m, n) x^{m-n}
-  $$
-- $$
-  e^{ax} \rightarrow a^{n} e^{ax}
-  $$
-
-## Partial Differentiation
+# Partial Differentiation
 
 Let $z = f(x, y)$ be a function of two independent variables $x$ and $y$,
 then the derivative of $z$ with respect to $x$ keeping $y$ constant
 is called the partial derivate of $z$ with respect to $x$
 
-### Notation
+## Notation
 
 $$
 \frac{\partial f}{\partial x} =
@@ -46,7 +23,7 @@ f_{yx}, \quad
 f_{yy}
 $$
 
-### limit of function with two variables
+## Limit of function with two variables
 
 - limit of function with two variables
     - a function $f(x, y)$ is said to tend to limit $L$ as
@@ -58,7 +35,7 @@ $$
 \lim_{(x, y) \rightarrow (a,b)} f(x, y) = L
 $$
 
-### Continuity
+## Continuity
 
 A function $f(x, y)$ is said to be continuous at $(a, b)$ iff
 
@@ -66,7 +43,7 @@ $$
 \lim_{(x, y) \rightarrow (a,b)} f(x, y) = f(a, b)
 $$
 
-### Homogeneous functions
+## Homogeneous functions
 
 - $f(x, y)$ is homogeneous if it can be represented as
 
@@ -76,7 +53,7 @@ $$
 
 $n$ is the called degree of the equation
 
-#### Euler's theorem - for homogeneous equations
+### Euler's theorem - for homogeneous equations
 
 $$
 x \frac{\partial f}{\partial x} + y \frac{\partial f}{\partial y} = n f(x, y)
@@ -89,9 +66,9 @@ y^2 \frac{\partial f}{\partial y^2}
 = n(n-1) f(x, y)
 $$
 
-### Expansion of function with multiple variables
+## Expansion of function with multiple variables
 
-#### Taylor Series
+### Taylor Series
 
 If $f(x, y)$ and all its partial derivatives upto the
 $n^{th}$ order are finite and continuous for all points
@@ -125,7 +102,7 @@ y \frac{\partial}{\partial y}
 \dots
 $$
 
-### Maxima and minima
+## Maxima and minima
 
 - function $f(x,y)$ have local maximum at point $(a, b)$
     - iff $f(a, b) > f(a+h, b+h)$ for some small values of $h$
@@ -141,7 +118,7 @@ $$
         - else if $D<0$ no extreme values
         - else $D=0$ test fails
 
-### Lagranage's Method of undetermined multipliers
+## Lagranage's Method of undetermined multipliers
 
 - Used to find stationary point of function with multiple variables
 
@@ -174,7 +151,7 @@ f_{y} + \lambda \phi_{y} = 0,
 f_{z} + \lambda \phi_{z} = 0
 $$
 
-### Jacobians
+## Jacobians
 
 Functions $u(x, y)$ and $v(x, y)$ have Jacobian(functional determinant), which is
 
@@ -201,7 +178,7 @@ $$
 \end{vmatrix}
 $$
 
-#### Properties of Jacobians
+### Properties of Jacobians
 
 - if $u$ and $v$ are functions of $r$ and $s$ and $r$ and $s$ are
   functions of $x$ and $y$

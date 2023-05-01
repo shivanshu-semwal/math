@@ -1,0 +1,22 @@
+# Geometry and Topology
+
+- Geometry
+- Euclidean geometry
+    - Trigonometry
+- Analytic geometry
+- Non-Euclidean geometry
+- Affine geometry
+- Projective geometry
+- Convex geometry
+- Discrete geometry
+- Algebraic geometry
+- Differential geometry
+    - K theory
+    - Gauge theory
+    - Riemannian geometry
+    - Lie groups
+- Topology
+    - General topology
+    - Algebraic topology
+    - Geometric topology
+    - Differential topology
