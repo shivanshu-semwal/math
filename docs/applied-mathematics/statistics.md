@@ -188,3 +188,7 @@ $$
 r_{s}
 = 1-{\frac {6(\sum d_{i}^{2} + \sum \frac{1}{12}(m^3 - m))}{n(n^{2}-1)}}
 $$
+
+## Resources
+
+- https://stats.oarc.ucla.edu/other/mult-pkg/whatstat/  
