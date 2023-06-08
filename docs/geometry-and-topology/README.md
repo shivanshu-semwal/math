@@ -2,7 +2,7 @@
 
 - Geometry
 - Euclidean geometry
-    - Trigonometry
+    - [Trigonometry](trigonometry.md)
 - Analytic geometry
 - Non-Euclidean geometry
 - Affine geometry

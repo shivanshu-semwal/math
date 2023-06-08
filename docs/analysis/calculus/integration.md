@@ -1,5 +1,7 @@
 # Integration
 
+## Definition
+
 ## Indefinite Intergral
 
 $$

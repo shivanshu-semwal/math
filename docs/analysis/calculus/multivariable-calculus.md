@@ -1,4 +1,4 @@
-# Vector calculus
+# Multi-variable Calculus
 
 ## Notation
 

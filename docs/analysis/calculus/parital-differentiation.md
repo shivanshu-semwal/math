@@ -209,3 +209,9 @@ $$
   {\frac{\partial (F_1, F_2, F_3)}{\partial (x_1, x_2, x_3)}}
   {\frac{\partial (F_1, F_2, F_3)}{\partial (u_1, u_2, u_3)}}
   $$
+
+## Chain Rule
+
+$$
+\frac{\partial}{\partial x} f(g(x, y)) = \frac{d}{dg}f(g) \cdot \frac{\partial}{\partial x} g(x, y)
+$$

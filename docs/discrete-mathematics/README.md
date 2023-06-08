@@ -1,14 +1,14 @@
 # Discrete Mathematics
 
 - Discrete mathematics
-- Combinatorics
+- [Combinatorics](combinatorics.md)
     - Combinatorial geometry
     - Coding theory
     - Combinatorial design
     - Enumerative combinatorics
     - Combinatorial optimization
-- Graph theory
-- Order theory
+- [Graph theory](graph-theory.md)
+- [Order theory](order-therory.md)
     - Lattice theory
 - Digital Signal Processing
 - Theoretical computer science

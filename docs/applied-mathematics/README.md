@@ -10,8 +10,8 @@
 - Mathematical economics
     - Game theory
     - Mathematical finance
-- Statistics
-- Probability theory
+- [Statistics](statistics.md)
+- [Probability theory](probability-theory.md)
     - Stochastic processes
 - Numerical analysis
 - Cryptography

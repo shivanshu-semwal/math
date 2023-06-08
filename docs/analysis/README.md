@@ -1,19 +1,19 @@
 # Analysis
 
 - Analysis
-- Calculus
+- [Calculus](calculus/README.md)
     - Fundamental theorem of calculus
     - Vector calculus
     - Geometric calculus
 - Measure theory
 - Real analysis
-- Complex analysis
-- Differential equations
+- [Complex analysis](complex-analysis.md)
+- [Differential equations](differential-equations/README.md)
     - Ordinary differential equations
     - Partial differential equations
 - Integral equations
 - Approximation theory
-- Special functions
+- [Special functions](special-functions.md)
 - Potential theory
 - Harmonic analysis
     - Fourier analysis

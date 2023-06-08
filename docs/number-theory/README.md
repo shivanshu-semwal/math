@@ -1,6 +1,6 @@
 # Number Theory
 
-- Number theory
+- [Number theory](number_theory.md)
 - Algebraic number theory
 - Analytic number theory
 - Arithmetic

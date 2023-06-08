@@ -1,28 +1,26 @@
 # Greek Letters
 
-Capital            |  Small              |Name
--------------------|---------------------|------------
-$\Alpha$           |  $\alpha$           | alpha
-$\Beta$            |  $\beta$            | beta
-$\Gamma$           |  $\gamma$           | gamma
-$\Delta$           |  $\delta$           | delta
-$\Epsilon$         |  $\epsilon$         | epsilon
-$\Zeta$            |  $\zeta$            | zeta
-$\Eta$             |  $\eta$             | eta
-$\Theta$           |  $\theta$           | theta
-$\Iota$            |  $\iota$            | iota
-$\Kappa$           |  $\kappa$           | kappa
-$\Lambda$          |  $\lambda$          | lambda
-$\Mu$              |  $\mu$              | mu
-$\Nu$              |  $\nu$              | nu
-$\Xi$              |  $\xi$              | xi
-$\Omicron$         |  $\omicron$         | omicron
-$\Pi$              |  $\pi$              | pi
-$\Rho$             |  $\rho$             | rho
-$\Sigma$           |  $\sigma$           | sigma
-$\Tau$             |  $\tau$             | tau
-$\Upsilon$         |  $\upsilon$         | upsilon
-$\Phi$             |  $\phi$             | phi
-$\Chi$             |  $\chi$             | chi
-$\Psi$             |  $\psi$             | psi
-$\Omega$           |  $\omega$           | omega
+- $\text{A}$ $\alpha$ - alpha
+- $\text{B}$ $\beta$ - beta
+- $\Gamma$ $\gamma$ - gamma
+- $\Delta$ $\delta$ - delta
+- $\text{E}$ $\epsilon$ - epsilon
+- $\text{Z}$ $\zeta$ - zeta
+- $\text{H}$ $\eta$ - eta
+- $\Theta$ $\theta$ - theta
+- $\text{I}$ $\iota$ - iota
+- $\text{K}$ $\kappa$ - kappa
+- $\Lambda$ $\lambda$ - lambda
+- $\text{M}$ $\mu$ - mu
+- $\text{N}$ $\nu$ - nu
+- $\Xi$ $\xi$ - xi
+- $\text{O}$ $\omicron$ - omicron
+- $\Pi$ $\pi$ - pi
+- $\text{P}$ $\rho$ - rho
+- $\Sigma$ $\sigma$ - sigma
+- $\text{T}$ $\tau$ - tau
+- $\Upsilon$ $\upsilon$ - upsilon
+- $\Phi$ $\phi$ - phi
+- $\text{X}$ $\chi$ - chi
+- $\Psi$ $\psi$ - psi
+- $\Omega$ $\omega$ - omega

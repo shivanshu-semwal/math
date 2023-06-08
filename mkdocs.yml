@@ -20,9 +20,10 @@ theme:
   icon:
     repo: fontawesome/brands/github
   features:
+    - navigation.top
     - navigation.tracking
-    - navigation.tabs
     - navigation.indexes
+
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 markdown_extensions:
@@ -45,3 +46,5 @@ markdown_extensions:
   - meta
 plugins:
   - search
+  - print-site:
+      toc_depth: 3
