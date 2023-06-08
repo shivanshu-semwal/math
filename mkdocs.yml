@@ -48,3 +48,4 @@ plugins:
   - search
   - print-site:
       toc_depth: 3
+      enumerate_headings: false
