@@ -7,34 +7,23 @@
 Let, $R$ be relation on $X$
 
 - Reflexivity
-    - Reflexive
-        - $\forall x \in X, xRx$
-    - Irreflexive
-        - $\forall x \in X, \neg xRx$
+    - Reflexive $\forall x \in X, xRx$
+    - Irreflexive $\forall x \in X, \neg xRx$
 - Symmetry
-    - Symmetric
-        - $xRy \rightarrow yRx$
-    - Antisymmetric
-        - $xRy \land yRx \rightarrow x = y$
-    - Asymmetric
-        - $xRy \rightarrow \neg yRx$
+    - Symmetric $xRy \rightarrow yRx$
+    - Antisymmetric $xRy \land yRx \rightarrow x = y$
+    - Asymmetric $xRy \rightarrow \neg yRx$
 - Transitive
     - $xRy \land yRz \rightarrow xRz$
 - Connectedness
-    - Connected
-        - $\forall x, y \in X \text{ if } x \neq y \text{ either } xRy \text{ or } yRx$
-    - Strongly Connected
-        - $\forall x, y \in X \text{ either } xRy \text{ or } yRx$
+    - Connected $\forall x, y \in X \text{ if } x \neq y \text{ either } xRy \text{ or } yRx$
+    - Strongly Connected $\forall x, y \in X \text{ either } xRy \text{ or } yRx$
 - Uniqueness property
-    - Injective, left-unique
-        - $\forall x, y, z, xRy \land zRy \rightarrow x=z$
-    - Functional, right-unique
-        - $\forall x, y, z, xRy \land xRz \rightarrow y=z$
+    - Injective, left-unique $\forall x, y, z, xRy \land zRy \rightarrow x=z$
+    - Functional, right-unique $\forall x, y, z, xRy \land xRz \rightarrow y=z$
 - Totality Properties
-    - Serial, left-total, total
-        - $\forall x \in X, \exists y \in X | xRy$
-    - Surjective, right-total, onto
-        - $\forall y \in X, \exists x \in X | xRy$
+    - Serial, left-total, total $\forall x \in X, \exists y \in X | xRy$
+    - Surjective, right-total, onto $\forall y \in X, \exists x \in X | xRy$
 
 ## Combination of Properties
 
